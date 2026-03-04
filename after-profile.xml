@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" enabled="true" visible="true" x="0" y="0" width="393" height="852" name="EBAC Store" label="EBAC Store">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="393" height="852">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="852" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="393" height="59">
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="793" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar         Toolbar">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        " label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        ">
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        " label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        ">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        " label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        ">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        " label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar        ">
+                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Toolbar">
+                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759">
+                                                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page">
+                                                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page">
+                                                                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page">
+                                                                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="759" name=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label=" Contrato Categoria 1771985603900  Search Product  Sort By  Category Vertical scroll bar, 1 page No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page">
+                                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="79" name=" Contrato Categoria 1771985603900" label=" Contrato Categoria 1771985603900">
+                                                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="59" width="393" height="79" name=" Contrato Categoria 1771985603900" label=" Contrato Categoria 1771985603900">
+                                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="76" width="45" height="45" name="back" label="">
+                                                                          </XCUIElementTypeOther>
+                                                                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="true" x="93" y="74" width="207" height="50" name="Contrato Categoria 1771985603900" label="Contrato Categoria 1771985603900" value="Contrato Categoria 1771985603900">
+                                                                          </XCUIElementTypeStaticText>
+                                                                        </XCUIElementTypeOther>
+                                                                      </XCUIElementTypeOther>
+                                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="138" width="393" height="72" name=" Search Product" label=" Search Product">
+                                                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="146" width="353" height="48" name=" Search Product" label=" Search Product">
+                                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="146" width="353" height="48" name=" Search Product" label=" Search Product">
+                                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="28" y="150" width="39" height="40" name="" label="">
+                                                                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="28" y="155" width="35" height="30" name="" label="">
+                                                                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="33" y="155" width="30" height="30" name="" label="">
+                                                                                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="33" y="155" width="30" height="30" name="" label="">
+                                                                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="true" x="33" y="155" width="31" height="31" name="iconIcon" label="" value="">
+                                                                                    </XCUIElementTypeStaticText>
+                                                                                  </XCUIElementTypeOther>
+                                                                                </XCUIElementTypeOther>
+                                                                              </XCUIElementTypeOther>
+                                                                            </XCUIElementTypeOther>
+                                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="67" y="150" width="294" height="40" name="Search Product" label="Search Product">
+                                                                              <XCUIElementTypeTextField type="XCUIElementTypeTextField" enabled="true" visible="true" x="67" y="150" width="294" height="40" name="searchInput" label="" value="Search Product">
+                                                                              </XCUIElementTypeTextField>
+                                                                            </XCUIElementTypeOther>
+                                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="361" y="150" width="4" height="40">
+                                                                            </XCUIElementTypeOther>
+                                                                          </XCUIElementTypeOther>
+                                                                        </XCUIElementTypeOther>
+                                                                      </XCUIElementTypeOther>
+                                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="210" width="393" height="59" name=" Sort By  Category Vertical scroll bar, 1 page" label=" Sort By  Category Vertical scroll bar, 1 page">
+                                                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="225" width="369" height="29" name=" Sort By  Category Vertical scroll bar, 1 page" label=" Sort By  Category Vertical scroll bar, 1 page">
+                                                                          <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="12" y="225" width="369" height="29">
+                                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="225" width="263" height="29" name=" Sort By  Category" label=" Sort By  Category">
+                                                                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="225" width="126" height="29" name=" Sort By" label=" Sort By">
+                                                                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="19" y="225" width="112" height="29" name="SortBy" label=" Sort By">
+                                                                                </XCUIElementTypeOther>
+                                                                              </XCUIElementTypeOther>
+                                                                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="137" y="225" width="138" height="29" name=" Category" label=" Category">
+                                                                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="144" y="225" width="124" height="29" name="Category" label=" Category">
+                                                                                </XCUIElementTypeOther>
+                                                                              </XCUIElementTypeOther>
+                                                                            </XCUIElementTypeOther>
+                                                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="348" y="225" width="30" height="29" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" value="0%">
+                                                                            </XCUIElementTypeOther>
+                                                                          </XCUIElementTypeScrollView>
+                                                                        </XCUIElementTypeOther>
+                                                                      </XCUIElementTypeOther>
+                                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="268" width="393" height="550" name="No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label="No products found Vertical scroll bar, 1 page Horizontal scroll bar, 1 page">
+                                                                        <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="268" width="393" height="550">
+                                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="268" width="393" height="55" name="No products found" label="No products found">
+                                                                            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="true" x="8" y="296" width="377" height="19" name="No products found" label="No products found" value="No products found">
+                                                                            </XCUIElementTypeStaticText>
+                                                                          </XCUIElementTypeOther>
+                                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="360" y="268" width="30" height="550" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" value="0%">
+                                                                          </XCUIElementTypeOther>
+                                                                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="784" width="393" height="31" name="Horizontal scroll bar, 1 page" label="Horizontal scroll bar, 1 page" value="0%">
+                                                                          </XCUIElementTypeOther>
+                                                                        </XCUIElementTypeScrollView>
+                                                                      </XCUIElementTypeOther>
+                                                                    </XCUIElementTypeOther>
+                                                                  </XCUIElementTypeOther>
+                                                                </XCUIElementTypeOther>
+                                                              </XCUIElementTypeOther>
+                                                            </XCUIElementTypeOther>
+                                                          </XCUIElementTypeOther>
+                                                        </XCUIElementTypeOther>
+                                                      </XCUIElementTypeOther>
+                                                    </XCUIElementTypeOther>
+                                                  </XCUIElementTypeOther>
+                                                </XCUIElementTypeOther>
+                                              </XCUIElementTypeOther>
+                                            </XCUIElementTypeOther>
+                                          </XCUIElementTypeOther>
+                                        </XCUIElementTypeOther>
+                                      </XCUIElementTypeOther>
+                                    </XCUIElementTypeOther>
+                                  </XCUIElementTypeOther>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</AppiumAUT>

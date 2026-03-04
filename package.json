@@ -1,0 +1,21 @@
+{
+  "name": "ebac-ios-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wdio/cli": "^9.24.0",
+    "@wdio/local-runner": "^9.24.0",
+    "@wdio/mocha-framework": "^9.24.0",
+    "@wdio/spec-reporter": "^9.24.0",
+    "appium": "^2.19.0",
+    "dotenv": "^17.3.1",
+    "webdriverio": "^9.24.0"
+  }
+}
