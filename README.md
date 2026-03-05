@@ -8,9 +8,12 @@ Este projeto contém testes automatizados para aplicação mobile utilizando:
 - GitHub Actions
 
 ## Estrutura do Projeto
+
+
 pageobjects/
 test/specs/
 wdio.ios.sauce.conf.js
+
 
 Os testes seguem o padrão **Page Objects** para melhor organização e reutilização de código.
 
@@ -19,6 +22,8 @@ Os testes seguem o padrão **Page Objects** para melhor organização e reutiliz
 Foi configurado um pipeline de **Continuous Integration** utilizando **GitHub Actions**.
 
 O workflow está localizado em:
+
+
 .github/workflows/ci.yml
 
 
